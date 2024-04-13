@@ -1,0 +1,3 @@
+# Llenroc-Orthopedic-Hospital-Case-Supply-Chain
+Please email me for code on this project
+This README document outlines the objectives and setup for the Llenroc Orthopedic Hospital (LOH) Inventory Analysis Project assigned to the analytics team. The Chief Analytics Officer, Nik Balk, has prepared an analysis task focused on the storage and usage of implants and components used in knee and hip replacement surgeries at LOH. Given the increasing number of these surgeries, there is a critical need to evaluate and possibly revise the inventory management policy to optimize storage space and efficiency.
